@@ -10,6 +10,7 @@
     "fs:delete": "node src/fs/delete.js",
     "fs:list": "node src/fs/list.js",
     "fs:read": "node src/fs/read.js",
+    "cli:env": "Some_VAR=someVar RSS_VAR_1=var1 RSS_VAR_2=var2 node src/cli/env.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
