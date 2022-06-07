@@ -12,6 +12,7 @@
     "fs:read": "node src/fs/read.js",
     "cli:env": "Some_VAR=someVar RSS_VAR_1=var1 RSS_VAR_2=var2 node src/cli/env.js",
     "cli:args": "node src/cli/args.js --prop1 value1 --prop2 value2",
+    "module": "node src/modules/cjsToEsm.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
