@@ -20,6 +20,7 @@
     "zip:compress": "node src/zip/compress.js",
     "zip:decompress": "node src/zip/decompress.js",
     "wt": "node src/wt/main.js",
+    "cp": "node src/cp/cp.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
